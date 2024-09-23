@@ -47,4 +47,6 @@ Braille (*/breɪl/ **BRAYL***) is a tactile writing system used by people who ar
 ## Instructions
 1. Fork this repo to your personal Github Account
 1. Clone your forked repo to begin working on the challenge locally.
-2. Try to run the command line: cd python | ./translator.py <Braile/English sentence>
+---
+3. Try to run the command line: `cd python | ./translator.py <Braile/English sentence>`
+---
