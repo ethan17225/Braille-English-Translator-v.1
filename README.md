@@ -1,9 +1,9 @@
 ## Braille Translator
 In this mini project I will create a terminal / command-line application that can translate Braille to English and vice versa. 
 
-The string to translate will be passed into your application as an argument at runtime. Your application must be smart enough to determine if the string given to it is either Braille or English and automatically convert it to the appropriate opposite. 
+The string to translate will be passed into the application as an argument at runtime. The application must be smart enough to determine if the string given to it is either Braille or English and automatically convert it to the appropriate opposite. 
 
-For the purposes of this project Braille must be displayed as `O` and `.` where `O` represents a raised dot. I must include the entire English alphabet, the ability to `capitalize` letters, add `spaces`, and the numbers `0` through `9` as well. 
+For the purposes of this project Braille must be displayed as `O` and `.` where `O` represents a raised dot. The project must include the entire English alphabet, the ability to `capitalize` letters, add `spaces`, and the numbers `0` through `9` as well. 
 
 After conversion, output the translated string--and nothing else--to the terminal. 
 
